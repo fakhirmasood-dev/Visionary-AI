@@ -32,7 +32,7 @@ Installation
 <p>git clone https://github.com/fakhirmasood-dev/Visionary-AI<br>
 cd Visionary-AI<p>
 
-<h3>Create a Vistual environment</h3>
+<h3>Create a Virtual environment</h3>
 <p>python -m venv venv<br>
 Activate it:
 <p>
@@ -46,7 +46,7 @@ Activate it:
 <p>python manage.py migrate</p>
 <h3>Run the development server</h3>
 <p>python manage.py runserver<br>
-Open this url in browser http://127.0.0.1:8000/FM-Mart/home</p>
+Open this url in browser http://127.0.0.1:8000/VisionaryAI/home/</p>
 <h3>Environment Variables</h3>
 <p>create .env file and provide all environment variables.</p>
 <h1>Author</h1>
